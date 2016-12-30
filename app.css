@@ -1,0 +1,22 @@
+input.password:focus {
+    -webkit-text-security: none;
+    -moz-text-security: none;
+    text-security: none;
+}
+input.password {
+    -webkit-text-security: disc;
+    -moz-text-security: disc;
+    text-security: disc;
+}
+.mask-password {
+    cursor: pointer;
+    color: #AAA;
+}
+.mask-password.active {
+    color: #333;
+}
+
+
+.progress {
+	margin-top: 5px;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "better-password-ux",
+  "version": "1.0.0",
+  "description": "Passwords today are broken. They are complex, not fit for humans and most are not very secure. This project serves as a way to add some key and imho vital improvements to web password inputs which are today just plain broken if not insane. ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimmythecoder/better-password-ux.git"
+  },
+  "keywords": [
+    "password",
+    "input",
+    "ux",
+    "strength",
+    "human"
+  ],
+  "author": "James Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jimmythecoder/better-password-ux/issues"
+  },
+  "homepage": "https://github.com/jimmythecoder/better-password-ux#readme"
+}
